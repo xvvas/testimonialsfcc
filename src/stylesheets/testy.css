@@ -1,0 +1,25 @@
+.testy{
+    width:  1170px;
+    height: 368px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+    margin: 3%;
+}
+.testy_img{
+    height: 100%;
+    width: auto;
+}
+.testy_contex{
+    text-align: left;
+    padding: 40px;
+    margin: 10%;
+    font-family: lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.testy_name{
+    font-size: 1.3rem;
+}
